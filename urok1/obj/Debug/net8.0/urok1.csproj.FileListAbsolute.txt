@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\meet_lang\urok1\bin\Debug\net8.0\urok1.exe
+C:\Users\user\Desktop\meet_lang\urok1\bin\Debug\net8.0\urok1.deps.json
+C:\Users\user\Desktop\meet_lang\urok1\bin\Debug\net8.0\urok1.runtimeconfig.json
+C:\Users\user\Desktop\meet_lang\urok1\bin\Debug\net8.0\urok1.dll
+C:\Users\user\Desktop\meet_lang\urok1\bin\Debug\net8.0\urok1.pdb
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\urok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\urok1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\urok1.AssemblyInfo.cs
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\urok1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\urok1.dll
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\refint\urok1.dll
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\urok1.pdb
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\urok1.genruntimeconfig.cache
+C:\Users\user\Desktop\meet_lang\urok1\obj\Debug\net8.0\ref\urok1.dll
